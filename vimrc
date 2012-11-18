@@ -18,6 +18,7 @@ Bundle 'git://github.com/scrooloose/syntastic'
 Bundle 'git://github.com/tpope/vim-repeat'
 Bundle 'git://github.com/Townk/vim-autoclose'
 Bundle 'git://github.com/vim-scripts/Gundo'
+Bundle 'git://github.com/kien/ctrlp.vim'
 
 Bundle 'git://github.com/vim-scripts/bufexplorer.zip'
 Bundle 'git://github.com/fholgado/minibufexpl.vim'
